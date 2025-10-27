@@ -70,7 +70,9 @@ BLEU	Measures overlap between generated and reference text
 ROUGE-L	Evaluates longest common subsequence similarity
 chrF	Character n-gram F-score (captures word variations)
 Perplexity	Measures model confidence in its predictions
-🧑‍💻 Authors
 
+
+🧑‍💻 Authors
 Muhammad Abdul Muizz
+
 Medium | GitHub
